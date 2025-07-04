@@ -1,3 +1,3 @@
 function exibirSaudacao() {
-    document.getElementById('mensagem').innerText = "😃 Que bom te ver aqui! Espero que seu dia seja tão legal quanto viajar para o Japão!";
+    document.getElementById("mensagem").innerHTML = "Que bom que você está aqui! 😊";
 }

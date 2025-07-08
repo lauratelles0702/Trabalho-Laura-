@@ -1,0 +1,54 @@
+body {
+    font-family: Verdana, Arial, sans-serif;
+    background: #fdf6e3;
+    margin: 24px;
+}
+
+h1 {
+    color: #744fc6;
+    text-align: center;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+}
+
+h2 {
+    color: #00897b;
+}
+
+button {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #ffd54f;
+    border: 2px solid #744fc6;
+    color: #744fc6;
+    font-weight: bold;
+    border-radius: 6px;
+    padding: 8px 16px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #ffe082;
+}
+
+#mensagem {
+    margin-top: 10px;
+    color: #d84315;
+    font-size: 1.2em;
+    font-style: italic;
+}
+
+table {
+    margin-top: 10px;
+    border: 2px solid #744fc6;
+    background: #fffde7;
+}
+
+td {
+    padding: 10px;
+    text-align: center;
+}
+
+a {
+    color: #00897b;
+    font-weight: bold;
+}
